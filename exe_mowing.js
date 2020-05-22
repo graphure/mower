@@ -50,7 +50,7 @@ async function processLineByLine() {
         }
 
         //écriture du fichier d'export incluant les résultats
-        fs.writeFile('export.txt', result.join('\n'), function(err) {
+        fs.writeFile('output.txt', result.join('\n'), function(err) {
             if (err) return console.log(err);
             console.log(result);
         });
