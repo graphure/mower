@@ -1,0 +1,22 @@
+{
+  "name": "mower",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mower.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graphure/mower.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/graphure/mower/issues"
+  },
+  "homepage": "https://github.com/graphure/mower#readme",
+  "devDependencies": {
+    "qunit": "^2.10.0"
+  }
+}
