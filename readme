@@ -3,4 +3,4 @@
 run "node exe_lowing.js"
 
 ##For unit tests
-run "qunit mower.js"
+run "qunit unittests.js"
