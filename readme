@@ -1,0 +1,6 @@
+# mower
+##To run the code
+run "node exe_lowing.js"
+
+##For unit tests
+run "qunit mower.js"
